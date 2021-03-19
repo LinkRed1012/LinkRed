@@ -1,8 +1,13 @@
+
 p.test{
     color:yellow;
     background-color: lightblue ;
 } 
 
+p{
+    background-color: white;
+    width: 300px;
+}
 
 .b_color{
     margin: 10px;
@@ -10,8 +15,27 @@ p.test{
     width: 300px;
     height: 50px;
     border: 1px solid blue;
-
 }
-h1{
-    float: center;
+
+.title{
+    border:1px solid black;
+    height: 40px;
+    width: 500px;
+    float:center; 
+    margin:10px;
+    padding:10px;
+    background:pink;
+    font-size:32px;
+ }
+
+ html {
+    height: 100%;
+}
+
+body {
+    background-image: url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
