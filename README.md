@@ -1,1 +1,1 @@
-# LinkRed is a student , 
+# LinkRed is a student 
