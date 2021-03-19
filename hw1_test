@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    
+<head>
+    <style>
+        p.test{
+            color:yellow
+        }
+        .b_color{
+            float:right;
+            margin: 10px;
+            padding: 10px;
+            width: 300px;
+            height: 50px;
+            border: 1px solid blue;
+        }
+    </style>    
+    <meta charset="UTF-8">
+    <title>Stephen Curry web</title>
+    
+</head>
+<body>
+   
+    <div class="b_color">   
+    
+    <p>Stephen Curry is a NBA player, his birthday is March 14th</p>
+
+    </div>
+    <a href="http://t2.gstatic.com/images?q=tbn:ANd9GcQnLgyhW9penVGxiSMdLODiVB9PDosB1uhwUVtsotustKLleKGskejure0W1lHP"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcQnLgyhW9penVGxiSMdLODiVB9PDosB1uhwUVtsotustKLleKGskejure0W1lHP" width="225" height="300"></a>
+
+    <p>there is his wiki:<a href="https://zh.wikipedia.org/wiki/斯蒂芬·科里"> Curry's Wiki </a></p>
+    
+    <br><br>
+    <p><b>Curry's fans test</b></p>
+    <label for="warriors">Who is the most dirty in GWS?</label>
+    <select id="warriors">
+        <option value="Draymond Green">Draymond Green</option>
+        <option value="Stephen Curry">Stephen Curry</option>
+        <option value="Damion Lee">Damion Leeee</option>
+        <option value="Jordan Pool">Jordan Pool</option>
+    </select>
+    <button type="submit" onclick="alert('Ans is Draymond Green')">Click me to know the answer</button>
+
+
+    <p><b>Join To Curry's Family</b></p>
+    <form action="/action">
+        <label for="Acc">Account:</label>
+        <input type="number" id = "Acc" name = "Acc">
+        <br><be>
+        <label for="pass">Password:</label>
+        <input type="number" id = "pass" name = "pass">
+        <br><br>
+        <input type="submit" value="Welcome">
+    </form>
+
+    <p><b>Curry's three points show</b></p>
+    <iframe width="718" height="404" src="https://www.youtube.com/embed/pDZf1s9XnHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>made by:<b>Sam Mao</b></p>
+    <p class="test">this is for test </p>
+    
+</body>
+</html>
