@@ -1,5 +1,5 @@
 
-@media screen and (max-width:321px){
+@media screen and (max-width:320px){
 
 
     p.test{
@@ -52,7 +52,7 @@
     }
 
 }
-@media screen and (min-width:322px) and (max-width:480px){
+@media screen and (min-width:321px) and (max-width:480px){
 
 
     p.test{
